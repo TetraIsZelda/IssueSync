@@ -22,7 +22,7 @@ To get started with IssueSync, follow these steps:
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/IssueSync.git
+   git clone https://github.com/tckiprotich/IssueSync.git
 
 2. Install the necessary dependencies:
 Ensure you have .NET SDK installed on your machine.
