@@ -27,8 +27,7 @@ To get started with IssueSync, follow these steps:
 2. Install the necessary dependencies:
 Ensure you have .NET SDK installed on your machine.
 [ Click  Here to download ](https://dotnet.microsoft.com/download )
-Open the command line and navigate to the root directory of the project.
-    Run the following command to restore NuGet packages:
+
 - Open the command line and navigate to the root directory of the project.
 - Run the following command to restore NuGet packages:
 
